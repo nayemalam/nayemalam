@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=nayemalam.com&style=for-the-badge&url=https%3A%2F%2Fnayemalam.com)](https://nayemalam.com)
 ![LinkedIn Connect](https://img.shields.io/twitter/url?color=0077B5&label=Connect%20%40nayemalam&logo=LinkedIn&logoColor=0077B5&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnayemalam%2F)
 
-## I am an Engineer, Developer and Slam Poet!
+## I am an Engineer, Slam Poet and Developer!
 - 👀 &nbsp; I’m currently working on building an app using React Native!
 - 🌱 &nbsp; I’m currently learning everything 😅
 - 🤲🏽 &nbsp; I’m open to collaborating on open source projects that focuses on making an impact
