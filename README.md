@@ -26,7 +26,7 @@
 <img align="left" alt="Travis CI" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" /> &nbsp;
 <img align="left" alt="Visual Studio Code" width="26px" src="https://developer.ibm.com/swift/wp-content/uploads/sites/69/2017/02/Travis-Mascot.png" /> &nbsp;
 <img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png" /> &nbsp;
-<img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> 
+<img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> &nbsp;
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/nayemalam/" target="_blank"><img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
