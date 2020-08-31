@@ -29,6 +29,8 @@
 <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> 
 </div>
 
+<br />
+
 ### Connect with me:
 [<img align="left" alt="https://nayemalam.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://nayemalam.com/)
 [<img align="left" alt="https://www.linkedin.com/in/nayemalam/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nayemalam/)
