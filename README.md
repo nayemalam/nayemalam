@@ -29,6 +29,7 @@
 <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> &nbsp;
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/nayemalam/" target="_blank"><img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
-<a href="https://www.instagram.com/nayem_wizdom/" target="_blank"><img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> &nbsp;
-<a href="https://medium.com/@nayemalam" target="_blank"><img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+<a href="https://nayemalam.com/" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/nayemalam/" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
+<a href="https://www.instagram.com/nayem_wizdom/" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> &nbsp;
+<a href="https://medium.com/@nayemalam" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
