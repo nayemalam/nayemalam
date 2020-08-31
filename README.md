@@ -27,9 +27,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://developer.ibm.com/swift/wp-content/uploads/sites/69/2017/02/Travis-Mascot.png" /> &nbsp;
 <img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png" /> &nbsp;
 <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> &nbsp;
-
+<br />
 ### Connect with me:
-<a href="https://nayemalam.com/" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/nayemalam/" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
-<a href="https://www.instagram.com/nayem_wizdom/" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> &nbsp;
-<a href="https://medium.com/@nayemalam" target="_blank"><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+[<img align="left" alt="https://nayemalam.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://nayemalam.com/)
+[<img align="left" alt="https://www.linkedin.com/in/nayemalam/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nayemalam/)
+[<img align="left" alt="https://www.instagram.com/nayem_wizdom/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nayem_wizdom/)
+[<img align="left" alt="https://medium.com/@nayemalam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@nayemalam)
