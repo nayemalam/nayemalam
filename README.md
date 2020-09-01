@@ -4,7 +4,7 @@
 
 ## I am an Engineer, Slam Poet and Developer!
 - 👀 &nbsp; I’m currently working on building an app using React Native!
-- 🌱 &nbsp; I’m currently learning... everything 😅
+- 🌱 &nbsp; I’m currently learning... well everything 😅
 - 🤲🏽 &nbsp; I’m open to collaborating on open source projects that focuses on making a community impact
 - ⚡ &nbsp; Fun fact: I love to write, and play basketball
 
