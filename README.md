@@ -43,6 +43,7 @@
 ---
 <details>
   <summary>:dizzy: &nbsp; Recent Activity</summary>
+  <br />
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com//nayemalam/dbNameLookup/pull/3) in [nayemalam/dbNameLookup](https://github.com//nayemalam/dbNameLookup)
 2. 🎉 Merged PR [#4](https://github.com//nayemalam/dbNameLookup/pull/4) in [nayemalam/dbNameLookup](https://github.com//nayemalam/dbNameLookup)
