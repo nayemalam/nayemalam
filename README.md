@@ -1,6 +1,6 @@
 ### hello world, I'm Nayem 👋🏽 
 [![Website](https://img.shields.io/website?label=nayemalam.com&style=for-the-badge&url=https%3A%2F%2Fnayemalam.com)](https://nayemalam.com)
-![LinkedIn Connect](https://img.shields.io/twitter/url?color=0077B5&label=Connect%20%40nayemalam&logo=LinkedIn&logoColor=0077B5&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnayemalam%2F)
+[![LinkedIn Connect](https://img.shields.io/twitter/url?color=0077B5&label=Connect%20%40nayemalam&logo=LinkedIn&logoColor=0077B5&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnayemalam%2F)](https://www.linkedin.com/in/nayemalam/)
 
 ## I am an Engineer, Slam Poet and Developer!
 - 👀 &nbsp; I’m currently working on building an app using React Native!
@@ -52,3 +52,5 @@
   <br />
   <img align="left" alt="nayemalam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayemalam&show_icons=true&hide_border=true&theme=radical" />
 </details>
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=nayemalam&color=blue)
