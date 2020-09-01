@@ -1,4 +1,4 @@
-### hello world, I'm Nayem 👋🏽 🚀
+### hello world, I'm Nayem 👋🏽 
 [![Website](https://img.shields.io/website?label=nayemalam.com&style=for-the-badge&url=https%3A%2F%2Fnayemalam.com)](https://nayemalam.com)
 ![LinkedIn Connect](https://img.shields.io/twitter/url?color=0077B5&label=Connect%20%40nayemalam&logo=LinkedIn&logoColor=0077B5&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnayemalam%2F)
 
@@ -30,9 +30,26 @@
 </div>
 
 <br />
+<br />
 
 ### Connect with me:
 [<img align="left" alt="https://nayemalam.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://nayemalam.com/)
 [<img align="left" alt="https://www.linkedin.com/in/nayemalam/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nayemalam/)
 [<img align="left" alt="https://www.instagram.com/nayem_wizdom/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nayem_wizdom/)
 [<img align="left" alt="https://medium.com/@nayemalam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@nayemalam)
+
+<br />
+
+---
+<details>
+  <summary>:dizzy: &nbsp; Recent Activity</summary>
+  <!--START_SECTION:activity-->
+  
+  <!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>:rocket: &nbsp; GitHub Stats</summary>
+  <br />
+  <img align="left" alt="nayemalam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayemalam&show_icons=true&hide_border=true&theme=radical" />
+</details>
