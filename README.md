@@ -52,5 +52,3 @@
   <br />
   <img align="left" alt="nayemalam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayemalam&show_icons=true&hide_border=true&theme=radical" />
 </details>
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=nayemalam&color=blue)
