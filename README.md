@@ -23,8 +23,8 @@
 <img align="left" alt="Git Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
-<img align="left" alt="Travis CI" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" /> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://developer.ibm.com/swift/wp-content/uploads/sites/69/2017/02/Travis-Mascot.png" /> 
+<img align="left" alt="SpringBoot" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" /> 
+<img align="left" alt="Travis CI" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/travis-ci-logo.png" /> 
 <img align="left" alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png" /> 
 <img align="left" alt="Figma" height="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> 
 </div>
