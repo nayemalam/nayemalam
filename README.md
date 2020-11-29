@@ -3,7 +3,11 @@
 [![LinkedIn Connect](https://img.shields.io/twitter/url?color=0077B5&label=Connect%20%40nayemalam&logo=LinkedIn&logoColor=0077B5&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnayemalam%2F)](https://www.linkedin.com/in/nayemalam/)
 
 ## I am an Engineer, Slam Poet and Developer!
-- 👀 &nbsp; I’m currently working on building an app using React Native!
+- 👀 &nbsp; I’m currently working on:
+  - building 2 apps using React Native
+  - building 2 platforms using React JS
+  - managing <a href="https://mcgilldesignconsultancy.com/" target="_blank">McGill Design Consultancy</a>
+  - consulting for 2 small businesses in web dev
 - 🌱 &nbsp; I’m currently learning... well everything 😅
 - 🤲🏽 &nbsp; I’m open to collaborating on open source projects that focuses on making a community impact
 - ⚡ &nbsp; Fun fact: I love to write, and play basketball
