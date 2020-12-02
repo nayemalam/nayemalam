@@ -4,13 +4,14 @@
 
 ## I am an Engineer, Slam Poet and Developer!
 - 👀 &nbsp; I’m currently working on:
-  - building 2 apps using React Native
-  - building 2 platforms using React JS
-  - managing <a href="https://mcgilldesignconsultancy.com/" target="_blank">McGill Design Consultancy</a>
+  - building 2 native apps
+  - building 2 platforms (web)
   - consulting for 2 small businesses in web dev
+  - managing <a href="https://mcgilldesignconsultancy.com/" target="_blank">McGill Design Consultancy</a>
+  - managing <a href="https://emreld.com/" target="_blank">Emreld Agency</a>
 - 🌱 &nbsp; I’m currently learning... well everything 😅
 - 🤲🏽 &nbsp; I’m open to collaborating on open source projects that focuses on making a community impact
-- ⚡ &nbsp; Fun fact: I love to write, and play basketball
+- ⚡ &nbsp; Fun fact: I love to write, play ball and an avid tech geek
 
 ### Languages and Tools:
 <div style="display: inline;">
