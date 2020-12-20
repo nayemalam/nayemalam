@@ -50,8 +50,8 @@
   <summary>:dizzy: &nbsp; Recent Activity</summary>
   <br />
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/nayemalam/portfoliov2/pull/29) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
-2. 🎉 Merged PR [#6](https://github.com/nayemalam/dbNameLookup/pull/6) in [nayemalam/dbNameLookup](https://github.com/nayemalam/dbNameLookup)
+1. 🎉 Merged PR [#30](https://github.com/nayemalam/portfoliov2/pull/30) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+2. 💪 Opened PR [#30](https://github.com/nayemalam/portfoliov2/pull/30) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
 3. 🎉 Merged PR [#5](https://github.com/nayemalam/dbNameLookup/pull/5) in [nayemalam/dbNameLookup](https://github.com/nayemalam/dbNameLookup)
 4. 🎉 Merged PR [#28](https://github.com/nayemalam/portfoliov2/pull/28) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
 5. 💪 Opened PR [#28](https://github.com/nayemalam/portfoliov2/pull/28) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
