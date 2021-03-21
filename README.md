@@ -50,11 +50,11 @@
   <summary>:dizzy: &nbsp; Recent Activity</summary>
   <br />
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/nayemalam/portfoliov2/pull/38) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
-2. 🎉 Merged PR [#37](https://github.com/nayemalam/portfoliov2/pull/37) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
-3. 💪 Opened PR [#37](https://github.com/nayemalam/portfoliov2/pull/37) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
-4. 🎉 Merged PR [#1](https://github.com/nayemalam/superhero/pull/1) in [nayemalam/superhero](https://github.com/nayemalam/superhero)
-5. 🎉 Merged PR [#36](https://github.com/nayemalam/portfoliov2/pull/36) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+1. ❌ Closed PR [#39](https://github.com/nayemalam/portfoliov2/pull/39) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+2. 🎉 Merged PR [#40](https://github.com/nayemalam/portfoliov2/pull/40) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+3. 💪 Opened PR [#40](https://github.com/nayemalam/portfoliov2/pull/40) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+4. 🎉 Merged PR [#38](https://github.com/nayemalam/portfoliov2/pull/38) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+5. 🎉 Merged PR [#37](https://github.com/nayemalam/portfoliov2/pull/37) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
 <!--END_SECTION:activity-->
  
 </details>
