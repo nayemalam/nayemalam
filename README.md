@@ -62,3 +62,4 @@
   <br />
   <img align="left" alt="nayemalam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayemalam&show_icons=true&hide_border=true&theme=radical" />
 </details>
+<a href="https://app.daily.dev/nayemalam"><img src="https://api.daily.dev/devcards/566f59c0e4124ecfb7a22b5253cbb75e.png?r=w6j" width="400" alt="Nayem's Dev Card"/></a>
