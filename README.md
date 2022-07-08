@@ -48,10 +48,10 @@
   <summary>:dizzy: &nbsp; Recent Activity</summary>
   <br />
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nayemalam/corpus-search/pull/1) in [nayemalam/corpus-search](https://github.com/nayemalam/corpus-search)
-2. 💪 Opened PR [#1](https://github.com/nayemalam/corpus-search/pull/1) in [nayemalam/corpus-search](https://github.com/nayemalam/corpus-search)
-3. 🎉 Merged PR [#44](https://github.com/nayemalam/portfoliov2/pull/44) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
-4. 💪 Opened PR [#44](https://github.com/nayemalam/portfoliov2/pull/44) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
+1. 🎉 Merged PR [#1](https://github.com/nayemalam/corpus-search/pull/1) in [nayemalam/corpus-search](https://github.com/nayemalam/corpus-search) <br/>
+2. 💪 Opened PR [#1](https://github.com/nayemalam/corpus-search/pull/1) in [nayemalam/corpus-search](https://github.com/nayemalam/corpus-search) <br/>
+3. 🎉 Merged PR [#44](https://github.com/nayemalam/portfoliov2/pull/44) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2) <br/>
+4. 💪 Opened PR [#44](https://github.com/nayemalam/portfoliov2/pull/44) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2) <br/>
 5. 🎉 Merged PR [#43](https://github.com/nayemalam/portfoliov2/pull/43) in [nayemalam/portfoliov2](https://github.com/nayemalam/portfoliov2)
 <!--END_SECTION:activity-->
  
